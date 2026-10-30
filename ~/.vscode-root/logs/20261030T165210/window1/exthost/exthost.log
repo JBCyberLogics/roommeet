@@ -1,0 +1,15 @@
+2026-10-30 16:52:20.598 [info] Extension host with pid 84848 started
+2026-10-30 16:52:20.598 [info] Skipping acquiring lock for /opt/lampp/htdocs/meetsync/~/.vscode-root/User/workspaceStorage/f6a12e1cf6e80494d576abd3c12d17c2.
+2026-10-30 16:52:21.478 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-10-30 16:52:21.590 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-10-30 16:52:21.914 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-10-30 16:52:22.001 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-10-30 16:52:22.108 [info] Eager extensions activated
+2026-10-30 16:52:22.108 [info] [node-compile-cache] extension-host: packaged cache enabled (status: enabled, configured: /usr/share/code/resources/app/node-compile-cache/extension-host, active: /usr/share/code/resources/app/node-compile-cache/extension-host/v24.22.1-x64-60e4fe36)
+2026-10-30 16:52:22.198 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-10-30 16:52:22.232 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-10-30 16:52:24.103 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-10-30 16:52:52.762 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-10-30 16:52:52.930 [info] ExtensionService#_doActivateExtension TypeScriptTeam.jsts-chat-features, startup: false, activationEvent: 'onStartupFinished'
+2026-10-30 16:52:59.444 [info] Extension host terminating: received terminate message from renderer
+2026-10-30 16:52:59.473 [info] Extension host with pid 84848 exiting with code 0

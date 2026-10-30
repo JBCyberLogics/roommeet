@@ -1,0 +1,42 @@
+2026-10-30 16:52:19.788 [info] Agent Host process started successfully
+2026-10-30 16:52:20.557 [info] AgentService initialized
+2026-10-30 16:52:20.664 [info] Registering agent provider: copilotcli
+2026-10-30 16:52:20.674 [info] Registering agent provider: claude
+2026-10-30 16:52:20.719 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-10-30 16:52:20.719 [info] [Copilot] Auto presentation: Auto beside HydraFusion (fallback): dynamic Auto tiers are off; HydraFusion setting adds [none]
+2026-10-30 16:52:20.731 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-10-30 16:52:20.927 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-10-30 16:52:20.931 [info] [Copilot] Listing chats to migrate...
+2026-10-30 16:52:20.931 [info] [Copilot] Starting CopilotClient...
+2026-10-30 16:52:20.932 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-10-30 16:52:20.967 [info] [Copilot] Using bundled runtime path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-sdk-linux-x64/prebuilds/linux-x64/copilot-runtime
+2026-10-30 16:52:20.995 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-10-30 16:52:21.009 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-eb5b0359cd1a/-dA9mL8jymFT1Vfr77s6vg.sock
+2026-10-30 16:52:21.147 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-10-30 16:52:21.172 [info] [node-compile-cache] agent-host: packaged cache enabled (status: enabled, configured: /usr/share/code/resources/app/node-compile-cache/agent-host, active: /usr/share/code/resources/app/node-compile-cache/agent-host/v24.22.1-x64-60e4fe36)
+2026-10-30 16:52:21.174 [info] [Copilot] CopilotClient started successfully
+2026-10-30 16:52:21.182 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-10-30 16:52:21.184 [info] [Copilot] Listed 0 SDK session(s) for chats to migrate
+2026-10-30 16:52:21.184 [info] [Copilot] Found 0 legacy sessions
+2026-10-30 16:52:21.210 [info] [CopilotDiscovery] Started: maxCandidateWatches=32, maxConcurrentStats=4, coalesceMs=500
+2026-10-30 16:52:21.210 [info] [AgentService] sessions_v2 import for provider copilotcli: 0 synchronized, 0 current, 0 excluded, 0 stale exclusions, 0 incomplete, 0 failed, marker set in 465ms (0 db opens, 0 db stats)
+2026-10-30 16:52:21.212 [info] [CopilotDiscovery] Scan 1 started: initial=true, candidates=0, reasons={}, watched=0, pending=0, ignoredHostEvents=0
+2026-10-30 16:52:21.212 [info] [Copilot] Listing discoverable chats...
+2026-10-30 16:52:21.217 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-10-30 16:52:21.221 [info] [CopilotDiscovery] Scan 1 catalog: sdkSessions=0, candidates=0, listMs=5, classifyMs=4, published=0, external=0, legacy=0, known=0, disabledLegacy=0, archivedLegacy=0, missingCwd=0, unsupportedClient=0, stale=0, failed=0
+2026-10-30 16:52:21.223 [info] [CopilotDiscovery] Scan 1 finished: elapsedMs=10, completed=0, pending=0, watched=0, overflow=0, ignoredHostEvents=0
+2026-10-30 16:52:21.249 [info] [ProtocolServer] Initialize: clientId=42273269-83ec-4505-bdf8-8f90a70e4307, protocolVersions=[1.0.0, 0.10.0, 0.9.0]
+2026-10-30 16:52:21.583 [info] [AgentService] showExternalSessions changed 'none' -> 'last7Days'; queueing session list reconciliation
+2026-10-30 16:52:21.583 [info] [Copilot] Startup config changed (copilotConnectors=true), restarting CopilotClient
+2026-10-30 16:52:21.583 [info] [Copilot] Restarting CopilotClient (startup config changed: copilotConnectors=true)
+2026-10-30 16:52:21.598 [info] Registering agent provider: codex
+2026-10-30 16:52:21.686 [info] [Copilot] Auto presentation: Auto beside HydraFusion (fallback): CAPI provided no Auto tiers; HydraFusion setting adds [none]
+2026-10-30 16:52:21.701 [info] [AgentService] pruned 0 stale external session row(s) older than 30 days
+2026-10-30 16:52:21.703 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-10-30 16:52:22.512 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-10-30 16:52:22.518 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-10-30 16:53:00.142 [info] [ProtocolServer] Client disconnected: 42273269-83ec-4505-bdf8-8f90a70e4307, subscriptions=1
+2026-10-30 16:53:00.151 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-10-30 16:53:00.153 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-10-30 16:53:00.156 [info] AgentService: shutting down all providers...
+2026-10-30 16:53:00.156 [info] [Copilot] Shutting down...
